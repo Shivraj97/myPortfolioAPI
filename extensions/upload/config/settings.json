@@ -1,0 +1,8 @@
+{
+  "provider": "cloudinary",
+  "providerOptions": {
+    "cloud_name": "dxfoljepp",
+    "api_key": "585451275593355",
+    "api_secret": "qqkHy4VQ1Oum_-hNC_WB8I60wmQ"
+  }
+}
